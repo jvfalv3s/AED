@@ -1,0 +1,17 @@
+Projeto comparativo entre diferentes interações de arvores de decisões.
+
+entrega dia 24 de março.
+
+O trabalho consciste de 4 tarefas e tem como objetivo consolidar os conhecimentos sobre eficiencia de algoritmos e estrutura de dados, recolhendo indicadores de desempenho das estruturas implementadas, 
+nomeadamente, arvores binarias de decisoes.
+
+tarefa 1:
+
+tarefa 2:
+
+tarefa 3:
+
+tarefa 4:
+
+
+A principio tinha como objetivo o desenvolvimento dos codigos usando a linguagem C/C++ contudo, em busca de uma melhor compreenção do codigo e facilidade de implementação, decidi codar usando python.
