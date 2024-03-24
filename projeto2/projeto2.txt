@@ -15,3 +15,9 @@ tarefa 4:
 
 
 A principio tinha como objetivo o desenvolvimento dos codigos usando a linguagem C/C++ contudo, em busca de uma melhor compreenção do codigo e facilidade de implementação, decidi codar usando python.
+
+os textos e recursos usados:
+
+https://github.com/python-cafe/data_structures/blob/master/arvores/tree.py
+
+https://github.com/python-cafe/data_structures/blob/master/arvores/tree.py
